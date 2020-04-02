@@ -1,5 +1,5 @@
 # PC端仿美团网
--基于nuxt.js vue全家桶+koa+SSR全栈开发
+## 基于nuxt.js vue全家桶+koa+SSR全栈开发
 
 **This directory is not required, you can delete it if you don't want to use it.**
 
